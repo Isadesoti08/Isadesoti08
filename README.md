@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="left">Hi!!</h1>
 
 ###
@@ -11,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"></p>
 
 ###
 
@@ -36,3 +35,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
+
+###
